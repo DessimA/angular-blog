@@ -1,17 +1,33 @@
-.container__menu-title{
+.container__menu-title {
+  background-color: #333333;
   color: white;
-}
-
-.container__menu-title > h1{
-  margin-top: 15px;
-  margin-bottom: 15px;
-  font-size: 135px;
-  font-family: 'segoe UI';
-  display: flex;
-  justify-content: center;
-}
-
-.container__menu-title > hr{
+  padding: 20px;
   margin-top: 20px;
-  margin-bottom: 5px;
+}
+
+.container__menu-title > h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 72px;
+  font-family: 'Segoe UI', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.container__menu-title > hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: none;
+  height: 2px;
+  background-color: white;
+}
+
+.container__menu-title > hr:first-child {
+  margin-bottom: 0;
+}
+
+.container__menu-title > hr:last-child {
+  margin-top: 0;
 }

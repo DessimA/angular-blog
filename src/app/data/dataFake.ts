@@ -10,5 +10,17 @@ export const dataFake = [
     "title": "Nova Série anunciada no Disney +",
     "description": "bla blabla",
     "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+  },
+  {
+    "id":"3",
+    "title": "Novo filme do Pantera Negra",
+    "description": "marvel anuncia um novo filme do pantera negra, confira",
+    "photoCover":"https://p2.trrsf.com/image/fget/cf/1200/675/middle/images.terra.com/2022/10/04/1001119913-saiba-quem-e-a-nova-pantera-negra.jpg"
+  },
+  {
+    "id":"4",
+    "title": "Nova Série anunciada na DC",
+    "description": "bla blabla",
+    "photoCover":"https://uploads.metropoles.com/wp-content/uploads/2016/05/19124856/jennifer-lawrence-image-x-men-apocalypse.jpg"
   }
 ]
